@@ -39,3 +39,5 @@ build/
 
 *.env
 application-local.properties
+
+.idea/workspace.xml
