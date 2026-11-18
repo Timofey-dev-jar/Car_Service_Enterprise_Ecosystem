@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a17598c-3c20-4ce6-9f5c-63a06b4c98b7" name="Changes" comment="" />
+    <list default="true" id="3a17598c-3c20-4ce6-9f5c-63a06b4c98b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,65 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7626478256763622E-87" />
+      <entry key="MS500" value="4.458955210164586E-18" />
+      <entry key="S2" value="4.5952408343233064E-5" />
+      <entry key="S5" value="0.018404469811852057" />
+      <entry key="S10" value="0.13566307463967553" />
+      <entry key="S30" value="0.5141528917821274" />
+      <entry key="S60" value="0.7364717914636898" />
+      <entry key="M2" value="1.0394758363880257" />
+      <entry key="M5" value="2.2266713735930725" />
+      <entry key="M10" value="4.5787148568855836" />
+      <entry key="M15" value="6.4538620967221325" />
+      <entry key="M30" value="9.59895130078842" />
+      <entry key="H1" value="11.930010789637196" />
+      <entry key="H2" value="13.358590258201836" />
+      <entry key="H4" value="14.150692090860689" />
+      <entry key="D1" value="14.854293609811343" />
+      <entry key="W1" value="14.979080574603726" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000439279895879" />
+      <entry key="S5" value="1.0180757585320497" />
+      <entry key="S10" value="1.1344461176111795" />
+      <entry key="S30" value="1.5126107474077353" />
+      <entry key="S60" value="1.7353625790144935" />
+      <entry key="M2" value="2.0381562568992027" />
+      <entry key="M5" value="3.164923070397363" />
+      <entry key="M10" value="5.244728428023643" />
+      <entry key="M15" value="6.854404594493442" />
+      <entry key="M30" value="9.510446763847966" />
+      <entry key="H1" value="11.456725036523105" />
+      <entry key="H2" value="12.642667336812785" />
+      <entry key="H4" value="13.298339159401142" />
+      <entry key="D1" value="13.879719765239198" />
+      <entry key="W1" value="13.982733457262947" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.172928154902756E-5" />
+      <entry key="MS500" value="0.11679091836039754" />
+      <entry key="S2" value="0.5846642403410793" />
+      <entry key="S5" value="0.8401451152538331" />
+      <entry key="S10" value="1.1563761610421863" />
+      <entry key="S30" value="1.9760543275575828" />
+      <entry key="S60" value="2.4428179601365514" />
+      <entry key="M2" value="3.0605126093135513" />
+      <entry key="M5" value="5.378646246934881" />
+      <entry key="M10" value="9.808136372243498" />
+      <entry key="M15" value="13.292797387116748" />
+      <entry key="M30" value="19.09701565688809" />
+      <entry key="H1" value="23.378767884001785" />
+      <entry key="H2" value="25.996721462802824" />
+      <entry key="H4" value="27.446609076325483" />
+      <entry key="D1" value="28.733586773011304" />
+      <entry key="W1" value="28.96175250714539" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -21,21 +84,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;core__develop&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/timofey-margarita/projects/Car_Service_Enterprise_Ecosystem&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "core__develop",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/timofey-margarita/projects/Car_Service_Enterprise_Ecosystem",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -56,5 +120,14 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-messaging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
   </component>
 </project>
